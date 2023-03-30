@@ -49,14 +49,14 @@ import DarkMode from "@/components/dark-mode";
 .navbar-wrapper {
   position: relative;
   top: 0;
-  border-bottom: 1px solid #dcdfe6;
   height: 55px;
   padding: 0 12px 0 24px;
   background-size: 4px 4px;
+  border-bottom: 1px solid #dcdfe6;
 
   .container {
-    height: 100%;
     justify-content: space-between;
+    height: 100%;
 
     .logo-container {
       align-items: center;
@@ -66,6 +66,7 @@ import DarkMode from "@/components/dark-mode";
     .content {
       align-items: center;
       justify-content: center;
+
       .social-link {
         position: relative;
         top: 2px;

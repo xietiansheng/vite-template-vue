@@ -11,7 +11,8 @@ module.exports = {
 		'stylelint-config-recess-order',
 		// 接入 Prettier 规则
 		'stylelint-config-prettier',
-		'stylelint-prettier/recommended'
+		'stylelint-prettier/recommended',
+		'stylelint-config-recommended-vue'
 	],
 	// 配置 rules
 	rules: {

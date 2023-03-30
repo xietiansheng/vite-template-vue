@@ -1,5 +1,5 @@
 <template>
-  <div class="relative">
+  <div class="h-full">
     <guide-page />
   </div>
 </template>
@@ -15,8 +15,4 @@ onMounted(() => {
 });
 </script>
 
-<style scoped lang="scss">
-.relative {
-  height: 100%;
-}
-</style>
+<style scoped lang="scss"></style>

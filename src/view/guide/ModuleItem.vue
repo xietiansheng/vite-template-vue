@@ -25,13 +25,13 @@ const props = withDefaults(
 
 <style lang="scss" scoped>
 .sub-title {
+  margin: 0 0 10px;
   font-size: 16px;
-  margin: 0 0 10px 0;
 }
 
 .title {
+  margin: 20px 0 10px;
   font-size: 30px;
   font-weight: bold;
-  margin: 20px 0 10px 0;
 }
 </style>
